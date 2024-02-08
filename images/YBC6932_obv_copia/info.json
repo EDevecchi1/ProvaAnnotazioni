@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 130,
+    "height" : 104
+  }, {
+    "width" : 260,
+    "height" : 207
+  }, {
+    "width" : 520,
+    "height" : 414
+  }, {
+    "width" : 1039,
+    "height" : 828
+  }, {
+    "width" : 2077,
+    "height" : 1655
+  }, {
+    "width" : 4154,
+    "height" : 3309
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4154,
+  "@id" : "https://EDevecchi1.github.io/ProvaAnnotazioni/images/YBC6932_obv_copia",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3309
+}
